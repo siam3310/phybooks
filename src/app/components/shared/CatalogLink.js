@@ -26,7 +26,7 @@ export default function CatalogLink() {
         <span className={styles.bookIcon}>
           <BookIcon />
         </span>
-        View book catalog
+        Bangla Version
         <span className={styles.nextIcon}>
           <ChevronRightIcon />
         </span>
