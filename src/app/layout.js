@@ -12,8 +12,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: {
-    template: "PhyBooks | %s",
-    default: "PhyBooks",
+    template: "BDBooks | %s",
+    default: "BDBooks",
   },
   description: "Download and Read Bangla Books for FREE !!!",
   keywords: [
@@ -46,7 +46,7 @@ export const metadata = {
   creator: "Muhammed Faris P - Managed by Siam",
   metadataBase: new URL("https://bdbooks.vercel.app"),
   openGraph: {
-    title: "PhyBooks",
+    title: "BDBooks",
     description: "Download and Read Bangla Books for FREE !!!",
     type: "website",
     url: "https://bdbooks.vercel.app",
