@@ -3,7 +3,7 @@ const LogoIcon = (props) => (
     xmlns="http://www.w3.org/2000/svg"
     width={130}
     height={28}
-    fill="none"
+    viewBox="0 0 640 156"
     {...props}
   >
     <path
