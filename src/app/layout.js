@@ -24,21 +24,21 @@ export const metadata = {
     ...getBookTitles(textbooks),
   ],
   icons: [
-    { rel: "icon", url: "/images/favicon/favicon.ico" },
-    { rel: "icon", url: "/favicon.svg", sizes: "any", type: "image/svg+xml" },
+    { rel: "icon", url: "https://i.ibb.co.com/JR96mMYb/bdbooks-removebg-preview.png" },
+    { rel: "icon", url: "https://i.ibb.co.com/JR96mMYb/bdbooks-removebg-preview.png", sizes: "any", type: "image/svg+xml" },
     {
       rel: "icon",
-      url: "/images/favicon/favicon-32x32.png",
+      url: "https://i.ibb.co.com/JR96mMYb/bdbooks-removebg-preview.png",
       type: "image/png",
     },
     {
       rel: "icon",
-      url: "/images/favicon/favicon-16x16.png",
+      url: "https://i.ibb.co.com/JR96mMYb/bdbooks-removebg-preview.png",
       type: "image/png",
     },
     {
       rel: "apple-touch-icon",
-      url: "/images/favicon/apple-touch-icon.png",
+      url: "https://i.ibb.co.com/JR96mMYb/bdbooks-removebg-preview.png",
       sizes: "180x180",
     },
   ],
@@ -56,7 +56,7 @@ export const metadata = {
   authors: [{ name: "Siam" }],
   twitter: {
     description: "Download and Read Bangla Books for FREE !!!",
-    card: "summary_large_image",
+    card: "https://i.ibb.co.com/JR96mMYb/bdbooks-removebg-preview.png",
     site: "https://bdbooks.vercel.app",
   },
   verification: {
