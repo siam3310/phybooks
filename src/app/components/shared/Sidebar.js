@@ -7,13 +7,7 @@ export default function Sidebar({ isSidebarOpen }) {
     // ["Reference Books", "/reference-books"],
     // ["Favorites", "/favorites"],
     // { Settings: ["Theme", "Mode"] },
-    [
-      "Design Files",
-      "https://www.figma.com/file/xmcgV2La7Y4FOmmROXjNka/Bsc-physics?type=design&node-id=0%3A1&mode=design&t=aIAHqQmsHp7nal0A-1",
-    ],
-    ["Source Code", "/code"],
-    ["About", "/about"],
-    ["Contact", "https://github.com/FarisPalayi"],
+    ["Contact", "https://github.com/siam3310"],
   ];
 
   const renderNavItems = (navItems) => {
