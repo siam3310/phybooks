@@ -12,7 +12,7 @@ export default function Main() {
         <Intro />
         <SemesterGrid />
         <Subject />
-
+        <CatalogLink />
     {/* <Toast /> */}
       </div>
     </main>
