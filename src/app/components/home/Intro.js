@@ -18,8 +18,7 @@ export default function Intro() {
       </h1>
 
       <p className={styles.intro__description}>
-        PhyBooks gives access to a selection of core B.Sc Physics textbooks, all
-        tailored to support your academic success at Calicut University.
+        Download and Read Bangla Books, Novels etc For FREE !!!.
       </p>
 
       <div className={styles.intro__btnGroup}>
