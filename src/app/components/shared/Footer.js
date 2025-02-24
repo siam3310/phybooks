@@ -24,7 +24,7 @@ export default function Footer() {
         </div>
 
         <div className={styles.footer__copy}>
-          © Copyright 2024 - Muhammed Faris P
+          © Copyright 2025 - Siam
         </div>
       </div>
     </footer>
