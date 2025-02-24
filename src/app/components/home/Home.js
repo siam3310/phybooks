@@ -12,8 +12,8 @@ export default function Main() {
         <Intro />
         <SemesterGrid />
         <Subject />
-        <CatalogLink />
-        {/* <Toast /> */}
+
+    {/* <Toast /> */}
       </div>
     </main>
   );
