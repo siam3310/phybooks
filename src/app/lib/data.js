@@ -5,8 +5,8 @@ const textbooks = [
     author: "Siam",
     publishedDate: "29-08-2025",
     semester: 1,
-    subject: ["thermodynamics"], // can have more than one value for reference books
-    filepath: "https://upload-cloudfalre-r2-assets.omrecipes.dev/Soptoborna pdf class 7 com_11zon.pdf",
+    subject: ["humayun"], // can have more than one value for reference books
+    filepath: "https://upload-cloudfalre-r2-assets.omrecipes.dev/Soptoborna_class_7.pdf",
     image: {
       url: "/textbooks/semester-6/thermodynamics/cover/thermodynamics.jpg",
       width: 126,
