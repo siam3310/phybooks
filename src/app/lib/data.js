@@ -6,7 +6,7 @@ const textbooks = [
     publishedDate: "29-08-2025",
     semester: 1,
     subject: ["humayun"], // can have more than one value for reference books
-    filepath: "https://upload-cloudfalre-r2-assets.omrecipes.dev/Soptoborna_class_7.pdf",
+    filepath: "/textbooks/semester-6/thermodynamics/soptoborna.pdf",
     image: {
       url: "/textbooks/semester-6/thermodynamics/cover/thermodynamics.jpg",
       width: 126,
@@ -15,7 +15,7 @@ const textbooks = [
     isReference: false,
     category: [""],
     pages: 255,
-    size: 30.5,
+    size: 18,
   },
   
   {
